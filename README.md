@@ -20,3 +20,6 @@ https://youtu.be/HpQAZ6YNiA4
 ## Note
 This is a non-commercial fan project created for portfolio purposes.
 Detroit: Become Human belongs to Quantic Dream and Sony Interactive Entertainment.
+
+## Author
+Ceylin KALE
